@@ -1,0 +1,4 @@
+.time_series_c1/
+*.csv
+*.xlsx
+*.pdf
